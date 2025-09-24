@@ -94,3 +94,4 @@ We can see that the user is not enabled by default, as the email verification is
 
 * After the activation of the email is successful, we can see in AppUser table, 'Enabled' column is true for the verified user.
 ![After the user clicks Activate Now, the email is enabled](https://user-images.githubusercontent.com/36816476/105573018-b78b8980-5dae-11eb-9050-1e85d0c8c32b.PNG)
+# email_verification
